@@ -1625,3 +1625,1741 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.18-21.52.33:982][414]LogFileHelpers: Auto-saving content packages took 0.303
 [2024.02.18-21.52.46:497][652]LogSlate: Window 'Content Browser' being destroyed
 [2024.02.18-21.52.46:506][652]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.18-22.01.23:304][486]LogContentBrowser: Attempting asset rename: IK_SKM_Manny_Simple1 -> new
+[2024.02.18-22.01.23:356][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.01.23:434][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Meshes/new" FILE="../../../../a11/al22/cgt555_a11_Shengyang/Content/Characters/Mannequins/Meshes/new.uasset" SILENT=true
+[2024.02.18-22.01.23:440][486]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/new
+[2024.02.18-22.01.23:440][486]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/new6EE306AB4C45E8DA776E69BFA356A299.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Content/Characters/Mannequins/Meshes/new.uasset'
+[2024.02.18-22.01.23:449][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 576 ms)
+[2024.02.18-22.01.23:479][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.18-22.01.23:486][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.18-22.01.23:491][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.02.18-22.01.23:493][486]AssetCheck: New page: Asset Save: new
+[2024.02.18-22.01.23:493][486]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Characters/Mannequins/Meshes/new.new
+[2024.02.18-22.01.34:736][825]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Characters/Mannequins/Meshes/new.new
+[2024.02.18-22.01.34:736][825]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.01.34:737][825]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.01.34:745][825]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.01.34:746][825]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.01.35:125][825]LogViewport: Scene viewport resized to 925x631, mode Windowed.
+[2024.02.18-22.02.13:977][481]LogContentBrowser: Attempting asset rename: IK_Mannequin1 -> New1
+[2024.02.18-22.02.14:011][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.02.14:140][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequin_UE4/Meshes/New1" FILE="../../../../a11/al22/cgt555_a11_Shengyang/Content/Characters/Mannequin_UE4/Meshes/New1.uasset" SILENT=true
+[2024.02.18-22.02.14:144][481]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/New1
+[2024.02.18-22.02.14:144][481]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/New19316A85E42CED9EB29C524B8F7016DB5.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Content/Characters/Mannequin_UE4/Meshes/New1.uasset'
+[2024.02.18-22.02.14:155][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 720 ms)
+[2024.02.18-22.02.14:164][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.02.18-22.02.14:171][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.18-22.02.14:176][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.02.18-22.02.14:176][481]AssetCheck: New page: Asset Save: New1
+[2024.02.18-22.02.14:178][481]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Characters/Mannequin_UE4/Meshes/New1.New1
+[2024.02.18-22.02.15:696][627]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Characters/Mannequin_UE4/Meshes/New1.New1
+[2024.02.18-22.02.15:696][627]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.02.15:696][627]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.02.15:704][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.02.15:704][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.02.16:057][627]LogViewport: Scene viewport resized to 925x631, mode Windowed.
+[2024.02.18-22.05.11:860][951]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:876][951]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:883][952]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:890][953]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:899][954]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:906][955]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:915][956]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:923][957]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:932][958]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:940][959]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:950][960]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:966][961]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:983][962]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.11:992][963]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:001][964]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:009][965]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:016][966]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:024][967]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:033][968]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:042][969]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:050][970]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:058][971]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:066][972]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:074][973]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:083][974]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:092][975]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:100][976]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:108][977]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:117][978]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:125][979]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:133][980]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:142][981]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:150][982]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:159][983]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:166][984]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:175][985]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:183][986]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:191][987]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:199][988]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:208][989]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:216][990]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:225][991]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:233][992]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:243][993]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:250][994]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:259][995]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:266][996]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:275][997]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:284][998]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:291][999]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:299][  0]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:308][  1]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:316][  2]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:324][  3]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:333][  4]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:341][  5]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:350][  6]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:359][  7]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:366][  8]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:375][  9]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:383][ 10]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:392][ 11]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:400][ 12]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:409][ 13]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:417][ 14]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:426][ 15]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:434][ 16]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:441][ 17]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:448][ 18]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:458][ 19]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:467][ 20]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:475][ 21]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:483][ 22]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:492][ 23]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:500][ 24]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:508][ 25]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:516][ 26]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:525][ 27]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:533][ 28]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:541][ 29]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:550][ 30]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:559][ 31]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:566][ 32]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:574][ 33]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:583][ 34]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:592][ 35]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:600][ 36]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:608][ 37]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:617][ 38]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:624][ 39]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:633][ 40]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:641][ 41]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:649][ 42]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:658][ 43]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:666][ 44]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:675][ 45]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:682][ 46]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:691][ 47]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:699][ 48]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:708][ 49]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:716][ 50]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:724][ 51]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:732][ 52]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:741][ 53]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:749][ 54]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:758][ 55]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:766][ 56]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:774][ 57]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:782][ 58]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:791][ 59]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:799][ 60]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:808][ 61]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:819][ 62]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:835][ 63]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:842][ 64]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:851][ 65]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:859][ 66]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:868][ 67]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:876][ 68]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:884][ 69]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:893][ 70]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:900][ 71]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:908][ 72]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:918][ 73]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:926][ 74]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:937][ 75]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:954][ 76]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:962][ 77]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:970][ 78]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:978][ 79]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:986][ 80]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.12:995][ 81]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:004][ 82]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:012][ 83]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:020][ 84]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:029][ 85]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:036][ 86]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:046][ 87]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:054][ 88]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:062][ 89]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:070][ 90]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:078][ 91]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:088][ 92]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:096][ 93]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:104][ 94]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:113][ 95]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:121][ 96]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:129][ 97]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:138][ 98]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:146][ 99]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:154][100]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:163][101]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:170][102]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:179][103]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:186][104]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:196][105]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:203][106]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:212][107]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:220][108]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:229][109]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:236][110]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:246][111]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:253][112]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:262][113]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:271][114]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:279][115]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:286][116]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:295][117]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:304][118]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:312][119]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:320][120]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:329][121]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:336][122]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:345][123]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:354][124]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:362][125]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:370][126]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:378][127]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:386][128]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:396][129]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:403][130]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:412][131]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:420][132]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:429][133]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:436][134]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:445][135]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:454][136]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:462][137]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:470][138]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:479][139]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:487][140]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:496][141]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:504][142]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:512][143]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:520][144]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:529][145]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:537][146]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:545][147]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:553][148]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:562][149]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:572][150]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:579][151]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:587][152]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:595][153]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:604][154]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:612][155]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:620][156]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:629][157]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:636][158]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:645][159]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:653][160]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:662][161]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:670][162]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:679][163]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:687][164]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:696][165]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:703][166]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:712][167]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:721][168]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:728][169]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:737][170]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:745][171]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:753][172]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:762][173]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:770][174]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:781][175]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:789][176]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:798][177]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:805][178]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:813][179]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:822][180]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:831][181]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:839][182]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:846][183]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:856][184]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:864][185]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:872][186]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:880][187]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:889][188]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:897][189]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:905][190]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:914][191]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:922][192]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:930][193]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:939][194]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:948][195]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:956][196]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:964][197]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:972][198]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:981][199]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:988][200]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.13:998][201]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:006][202]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:014][203]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:022][204]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:031][205]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:039][206]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:048][207]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:055][208]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:064][209]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:072][210]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:080][211]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:089][212]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:098][213]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:106][214]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:114][215]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:122][216]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:131][217]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:139][218]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:148][219]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:156][220]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:164][221]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:172][222]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:181][223]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:189][224]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:196][225]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:205][226]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:214][227]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:223][228]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:231][229]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:239][230]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:248][231]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:255][232]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:263][233]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:273][234]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:281][235]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:289][236]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:298][237]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:306][238]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:314][239]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:322][240]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:330][241]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:339][242]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:348][243]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:356][244]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:364][245]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:372][246]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:381][247]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:389][248]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:396][249]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:406][250]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:415][251]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:422][252]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:430][253]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:439][254]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:448][255]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:456][256]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:464][257]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:472][258]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:481][259]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:489][260]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:497][261]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:506][262]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:514][263]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:523][264]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:531][265]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:539][266]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:548][267]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:556][268]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:564][269]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:573][270]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:581][271]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:589][272]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:598][273]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:606][274]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:614][275]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:622][276]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:631][277]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:639][278]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:648][279]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:655][280]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:664][281]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:673][282]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:681][283]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:689][284]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:698][285]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:705][286]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:714][287]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:722][288]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:731][289]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:739][290]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:748][291]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:756][292]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:764][293]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:773][294]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:780][295]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:789][296]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:798][297]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:806][298]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:814][299]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:822][300]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:830][301]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:839][302]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:848][303]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:856][304]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:864][305]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:872][306]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:881][307]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:889][308]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:898][309]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:905][310]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:914][311]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:922][312]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:931][313]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:939][314]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:948][315]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:956][316]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:964][317]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:973][318]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:981][319]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.14:989][320]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:004][321]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:013][322]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:021][323]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:030][324]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:038][325]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:046][326]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:054][327]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:063][328]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:072][329]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:080][330]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:088][331]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:097][332]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:105][333]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:113][334]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:122][335]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:132][336]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:138][337]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:146][338]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:154][339]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:163][340]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:172][341]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:180][342]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:189][343]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:197][344]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:204][345]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:214][346]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:222][347]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:230][348]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:239][349]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:246][350]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:256][351]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:263][352]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:272][353]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:279][354]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:289][355]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:296][356]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:305][357]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:314][358]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:322][359]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:330][360]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:339][361]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:346][362]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:355][363]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:364][364]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:372][365]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:380][366]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:388][367]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:399][368]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:416][369]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:426][370]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:433][371]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:442][372]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:450][373]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:463][374]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:522][375]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:529][376]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:539][377]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:547][378]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:555][379]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:564][380]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:571][381]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:579][382]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:588][383]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:596][384]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:605][385]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:613][386]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:622][387]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:631][388]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:638][389]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:646][390]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:655][391]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:664][392]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:672][393]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:680][394]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:688][395]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:696][396]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:705][397]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:713][398]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:721][399]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:729][400]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:738][401]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:747][402]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:753][403]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:762][404]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:771][405]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:779][406]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:788][407]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:795][408]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:804][409]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:813][410]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:821][411]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:829][412]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:838][413]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:846][414]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:855][415]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:863][416]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:871][417]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:880][418]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:888][419]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:896][420]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:905][421]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:912][422]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:921][423]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:929][424]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:938][425]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:946][426]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:954][427]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:963][428]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:970][429]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:979][430]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:988][431]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.15:996][432]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:004][433]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:013][434]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:021][435]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:030][436]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:038][437]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:047][438]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:054][439]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:062][440]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:071][441]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:080][442]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:088][443]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:096][444]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:104][445]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:113][446]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:121][447]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:129][448]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:138][449]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:146][450]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:155][451]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:163][452]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:171][453]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:179][454]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:188][455]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:196][456]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:204][457]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:213][458]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:221][459]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:230][460]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:238][461]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:246][462]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:254][463]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:263][464]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:270][465]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:280][466]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:288][467]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:296][468]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:304][469]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:314][470]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:321][471]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:330][472]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:339][473]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:348][474]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:355][475]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:364][476]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:371][477]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:380][478]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:388][479]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:396][480]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:404][481]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:413][482]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:421][483]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:429][484]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:438][485]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:446][486]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:454][487]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:463][488]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:471][489]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:480][490]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:488][491]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:496][492]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:505][493]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:513][494]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:521][495]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:529][496]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:538][497]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:546][498]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:555][499]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:563][500]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:572][501]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:580][502]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:588][503]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:596][504]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:605][505]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:614][506]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:622][507]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:630][508]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:638][509]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:647][510]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:655][511]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:664][512]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:671][513]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:680][514]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:688][515]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:697][516]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:704][517]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:713][518]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:721][519]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:730][520]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:738][521]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:746][522]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:755][523]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:764][524]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:771][525]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:780][526]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:788][527]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:797][528]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:805][529]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:813][530]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:822][531]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:830][532]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:838][533]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:846][534]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:855][535]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:863][536]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:872][537]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:880][538]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:888][539]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:896][540]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:905][541]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:914][542]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:921][543]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:931][544]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:938][545]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:946][546]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:955][547]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:963][548]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:972][549]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:980][550]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:988][551]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.16:996][552]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:005][553]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:014][554]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:022][555]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:030][556]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:038][557]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:047][558]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:055][559]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:063][560]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:071][561]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:080][562]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:089][563]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:096][564]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:105][565]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:113][566]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:121][567]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:130][568]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:138][569]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:146][570]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:155][571]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:164][572]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:171][573]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:180][574]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:188][575]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:196][576]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:205][577]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:214][578]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:221][579]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:230][580]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:239][581]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:247][582]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:255][583]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:264][584]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:272][585]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:280][586]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:289][587]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:296][588]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:305][589]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:313][590]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:322][591]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:330][592]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:339][593]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:347][594]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:355][595]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:364][596]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:371][597]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:380][598]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:388][599]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:397][600]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:405][601]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:414][602]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:422][603]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:430][604]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:438][605]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:446][606]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:455][607]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:464][608]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:472][609]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:480][610]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:488][611]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:497][612]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:505][613]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:514][614]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:522][615]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:530][616]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:538][617]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:546][618]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:555][619]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:563][620]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:572][621]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:580][622]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:588][623]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:597][624]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:605][625]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:613][626]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:622][627]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:630][628]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:638][629]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:647][630]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:655][631]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:663][632]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:672][633]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:681][634]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:688][635]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:696][636]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:705][637]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:713][638]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:722][639]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:730][640]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:738][641]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:746][642]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:755][643]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:764][644]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:771][645]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:780][646]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:788][647]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:796][648]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:805][649]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:813][650]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:822][651]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:830][652]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:838][653]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:847][654]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:855][655]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:863][656]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:871][657]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:880][658]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:888][659]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:896][660]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:905][661]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:914][662]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:922][663]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:930][664]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:938][665]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:946][666]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:955][667]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:964][668]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:971][669]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:980][670]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:988][671]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.17:997][672]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:005][673]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:013][674]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:021][675]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:031][676]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:038][677]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:047][678]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:055][679]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:063][680]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:072][681]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:080][682]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:088][683]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:097][684]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:105][685]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:113][686]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:122][687]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:130][688]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:139][689]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:147][690]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:156][691]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:165][692]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:173][693]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:181][694]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:192][695]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:225][696]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:233][697]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:241][698]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:250][699]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:256][700]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:266][701]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:274][702]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:282][703]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:291][704]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:299][705]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:308][706]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:315][707]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:324][708]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:333][709]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:341][710]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:349][711]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:359][712]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:367][713]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:375][714]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:383][715]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:392][716]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:400][717]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:408][718]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:417][719]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:424][720]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:433][721]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:440][722]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:449][723]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:458][724]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:466][725]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:475][726]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:482][727]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:492][728]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:499][729]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:508][730]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:516][731]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:524][732]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.05.18:532][733]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:502][279]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:502][279]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:502][279]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:502][279]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:502][279]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:519][279]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:519][279]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:519][279]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:519][279]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:519][279]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:526][280]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:526][280]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:526][280]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:526][280]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:526][280]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:533][281]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:533][281]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:533][281]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:533][281]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:533][281]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:541][282]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:541][282]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:541][282]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:541][282]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:541][282]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:550][283]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:550][283]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:550][283]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:550][283]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:550][283]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:558][284]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:558][284]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:558][284]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:558][284]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:558][284]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:566][285]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:566][285]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:566][285]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:566][285]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:566][285]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:596][286]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:596][286]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:596][286]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:596][286]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:596][286]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:604][287]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:604][287]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:604][287]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:604][287]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:604][287]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:613][288]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:613][288]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:613][288]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:613][288]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:613][288]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:621][289]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:621][289]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:621][289]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:621][289]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:621][289]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:630][290]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:630][290]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:630][290]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:630][290]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:630][290]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:638][291]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:638][291]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:638][291]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:638][291]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:638][291]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:646][292]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:646][292]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:646][292]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:646][292]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:646][292]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:654][293]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:654][293]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:654][293]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:654][293]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:654][293]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:663][294]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:663][294]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:663][294]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:663][294]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:663][294]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:670][295]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:670][295]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:670][295]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:670][295]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:670][295]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:679][296]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:679][296]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:679][296]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:679][296]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:679][296]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:687][297]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:687][297]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:687][297]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:687][297]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:687][297]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:695][298]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:695][298]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:695][298]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:695][298]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:695][298]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:703][299]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:704][299]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:704][299]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:704][299]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:704][299]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:711][300]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:711][300]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:711][300]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:711][300]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:711][300]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:721][301]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:721][301]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:721][301]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:721][301]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:721][301]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:728][302]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:728][302]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:728][302]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:728][302]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:728][302]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:736][303]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:736][303]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:736][303]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:736][303]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:736][303]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:745][304]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:745][304]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:745][304]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:745][304]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:745][304]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:753][305]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:753][305]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:753][305]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:753][305]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:753][305]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:762][306]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:762][306]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:762][306]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:762][306]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:762][306]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:770][307]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:770][307]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:770][307]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:770][307]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:770][307]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:778][308]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:778][308]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:778][308]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:778][308]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:778][308]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:786][309]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:786][309]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:786][309]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:786][309]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:786][309]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:795][310]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:795][310]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:795][310]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:795][310]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:795][310]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:803][311]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:803][311]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:803][311]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:803][311]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:803][311]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:812][312]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:812][312]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:812][312]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:812][312]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:812][312]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:820][313]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:820][313]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:820][313]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:820][313]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:820][313]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:828][314]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:828][314]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:828][314]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:828][314]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:828][314]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:837][315]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:837][315]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:837][315]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:837][315]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:837][315]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:845][316]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:845][316]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:845][316]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:845][316]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:845][316]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:854][317]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:854][317]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:854][317]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:854][317]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:854][317]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:861][318]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:861][318]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:861][318]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:861][318]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:861][318]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:871][319]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:871][319]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:871][319]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:871][319]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:871][319]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:879][320]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:879][320]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:879][320]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:879][320]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:879][320]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:887][321]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:887][321]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:887][321]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:887][321]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:887][321]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:895][322]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:895][322]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:895][322]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:895][322]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:895][322]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:903][323]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:903][323]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:903][323]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:903][323]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:903][323]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:912][324]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:912][324]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:912][324]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:912][324]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:912][324]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:920][325]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:920][325]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:920][325]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:920][325]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:920][325]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:928][326]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:928][326]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:928][326]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:928][326]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:928][326]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:937][327]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:937][327]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:937][327]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:937][327]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:937][327]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:945][328]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:945][328]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:945][328]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:945][328]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:945][328]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:953][329]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:954][329]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:954][329]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:954][329]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:954][329]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:962][330]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:962][330]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:962][330]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:962][330]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:962][330]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:970][331]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:970][331]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:970][331]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:970][331]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:970][331]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:979][332]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:979][332]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:979][332]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:979][332]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:979][332]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:987][333]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:987][333]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:987][333]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:987][333]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:987][333]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.45:996][334]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.45:996][334]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.45:996][334]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.45:996][334]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.45:996][334]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:004][335]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:004][335]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:004][335]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:004][335]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:004][335]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:012][336]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:012][336]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:012][336]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:012][336]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:012][336]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:020][337]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:020][337]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:020][337]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:020][337]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:020][337]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:028][338]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:028][338]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:028][338]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:028][338]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:028][338]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:036][339]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:036][339]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:036][339]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:036][339]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:036][339]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:046][340]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:046][340]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:046][340]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:046][340]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:046][340]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:054][341]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:054][341]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:054][341]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:054][341]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:054][341]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:062][342]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:062][342]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:062][342]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:062][342]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:062][342]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:070][343]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:070][343]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:070][343]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:070][343]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:070][343]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:079][344]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:079][344]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:079][344]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:079][344]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:079][344]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:086][345]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:086][345]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:086][345]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:086][345]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:086][345]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:095][346]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:095][346]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:095][346]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:095][346]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:095][346]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:103][347]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:104][347]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:104][347]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:104][347]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:104][347]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:112][348]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:112][348]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:112][348]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:112][348]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:112][348]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:120][349]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:120][349]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:120][349]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:120][349]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:120][349]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:129][350]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:129][350]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:129][350]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:129][350]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:129][350]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:137][351]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:137][351]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:137][351]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:137][351]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:137][351]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:145][352]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:145][352]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:145][352]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:145][352]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:145][352]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:153][353]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:153][353]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:153][353]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:153][353]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:153][353]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:161][354]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:161][354]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:161][354]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:162][354]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:162][354]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:170][355]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:170][355]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:170][355]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:170][355]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:170][355]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:178][356]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:178][356]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:178][356]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:178][356]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:178][356]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:187][357]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:187][357]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:187][357]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:187][357]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:187][357]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:195][358]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:195][358]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:195][358]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:195][358]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:195][358]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:203][359]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:203][359]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:203][359]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:203][359]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:203][359]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:212][360]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:212][360]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:212][360]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:212][360]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:212][360]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:220][361]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:220][361]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:220][361]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:220][361]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:220][361]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:228][362]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:228][362]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:228][362]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:228][362]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:228][362]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:236][363]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:236][363]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:236][363]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:236][363]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:236][363]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:245][364]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:245][364]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:245][364]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:245][364]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:245][364]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:253][365]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:253][365]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:253][365]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:253][365]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:253][365]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:261][366]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:262][366]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:262][366]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:262][366]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:262][366]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:274][367]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:274][367]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:274][367]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:274][367]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:274][367]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:282][368]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:282][368]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:282][368]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:282][368]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:282][368]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:292][369]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:292][369]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:292][369]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:292][369]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:292][369]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:299][370]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:299][370]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:299][370]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:299][370]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:299][370]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:307][371]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:307][371]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:307][371]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:307][371]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:307][371]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:315][372]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:315][372]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:315][372]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:315][372]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:315][372]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:324][373]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:324][373]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:324][373]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:324][373]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:324][373]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:333][374]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:333][374]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:333][374]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:333][374]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:333][374]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:340][375]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:340][375]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:340][375]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:340][375]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:340][375]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:350][376]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:350][376]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:350][376]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:350][376]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:350][376]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:356][377]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:356][377]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:356][377]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:356][377]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:356][377]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:365][378]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:365][378]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:365][378]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:365][378]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:365][378]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:373][379]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:373][379]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:373][379]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:373][379]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:373][379]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:382][380]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:382][380]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:382][380]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:382][380]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:382][380]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:390][381]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:390][381]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:390][381]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:390][381]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:390][381]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:398][382]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:398][382]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:398][382]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:398][382]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:398][382]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:406][383]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:406][383]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:406][383]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:406][383]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:406][383]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:415][384]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:415][384]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:415][384]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:415][384]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:415][384]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:423][385]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:423][385]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:423][385]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:423][385]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:423][385]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:431][386]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:431][386]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:431][386]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:431][386]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:431][386]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:440][387]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:440][387]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:440][387]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:440][387]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:440][387]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:449][388]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:449][388]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:449][388]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:449][388]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:449][388]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:456][389]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:456][389]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:456][389]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:456][389]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:456][389]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:465][390]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:465][390]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:465][390]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:465][390]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:465][390]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:473][391]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:473][391]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:473][391]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:473][391]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:473][391]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:482][392]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:482][392]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:482][392]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:482][392]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:482][392]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:489][393]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:489][393]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:489][393]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:489][393]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:489][393]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:498][394]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:498][394]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:498][394]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:498][394]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:498][394]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:506][395]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:506][395]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:506][395]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:506][395]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:506][395]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:515][396]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:515][396]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:515][396]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:515][396]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:515][396]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:523][397]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:523][397]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:523][397]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:523][397]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:523][397]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:532][398]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:532][398]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:532][398]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:532][398]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:532][398]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:540][399]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:540][399]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:540][399]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:540][399]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:540][399]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:549][400]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:549][400]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:549][400]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:549][400]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:549][400]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:556][401]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:556][401]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:556][401]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:556][401]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:556][401]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:564][402]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:564][402]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:564][402]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:565][402]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:565][402]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.46:573][403]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.06.46:573][403]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_l.
+[2024.02.18-22.06.46:573][403]LogIKRigEditor: Warning: Solver does not have settings on bone, hand_r.
+[2024.02.18-22.06.46:573][403]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_l.
+[2024.02.18-22.06.46:573][403]LogIKRigEditor: Warning: Solver does not have settings on bone, ball_r.
+[2024.02.18-22.06.53:726][405]LogAutomationController: Ignoring very large delta of 7.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.18-22.07.37:402][908]Cmd: TRANSACTION UNDO
+[2024.02.18-22.07.37:402][908]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.18-22.07.38:803][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.07.38:805][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.07.38:837][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.07.39:041][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.07.39:053][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.07.39:054][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.07.39:116][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.07.39:201][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.07.39:700][909]LogAutomationController: Ignoring very large delta of 2.30 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.18-22.12.46:209][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.18-22.12.46:211][328]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.008
+[2024.02.18-22.12.46:211][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Meshes/RTG_SKM_Manny_Simple_to_M] ([1] browsable assets)...
+[2024.02.18-22.12.46:211][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/RTG_SKM_Manny_Simple_to_M]
+[2024.02.18-22.12.46:213][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/RTG_SKM_Manny_Simple_to_M_Auto9
+[2024.02.18-22.12.46:213][328]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/RTG_SKM_Manny_Simple_to_M_Auto95157A302400F8DDC97A89186FE0EDF80.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Meshes/RTG_SKM_Manny_Simple_to_M_Auto9.uasset'
+[2024.02.18-22.12.46:214][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Run_Fwd] ([1] browsable assets)...
+[2024.02.18-22.12.46:214][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Run_Fwd]
+[2024.02.18-22.12.46:225][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Run_Fwd_Auto9
+[2024.02.18-22.12.46:225][328]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMF_Run_Fwd_Auto9F56A9B0C4F3A790025347DAA56B24EAE.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Run_Fwd_Auto9.uasset'
+[2024.02.18-22.12.46:226][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Idle] ([1] browsable assets)...
+[2024.02.18-22.12.46:226][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Idle]
+[2024.02.18-22.12.46:236][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Idle_Auto9
+[2024.02.18-22.12.46:236][328]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMF_Idle_Auto9EF63757E4F2091424D4DBAA558D7AAC8.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Idle_Auto9.uasset'
+[2024.02.18-22.12.46:236][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Run_Fwd] ([1] browsable assets)...
+[2024.02.18-22.12.46:236][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Run_Fwd]
+[2024.02.18-22.12.46:248][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Run_Fwd_Auto9
+[2024.02.18-22.12.46:248][328]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMM_Run_Fwd_Auto93380A3C646DE17E437443A8CEB83DAFC.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Run_Fwd_Auto9.uasset'
+[2024.02.18-22.12.46:249][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Land] ([1] browsable assets)...
+[2024.02.18-22.12.46:249][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Land]
+[2024.02.18-22.12.46:259][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Land_Auto9
+[2024.02.18-22.12.46:259][328]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMM_Land_Auto91A6C4A39414F91D18773928FE1D09D94.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Land_Auto9.uasset'
+[2024.02.18-22.12.46:259][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Jump] ([1] browsable assets)...
+[2024.02.18-22.12.46:260][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Jump]
+[2024.02.18-22.12.46:270][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Jump_Auto9
+[2024.02.18-22.12.46:271][328]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMM_Jump_Auto95B26407C4C47DFE7E68A2A91684B5920.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Jump_Auto9.uasset'
+[2024.02.18-22.12.46:271][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Fall_Loop] ([1] browsable assets)...
+[2024.02.18-22.12.46:271][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Fall_Loop]
+[2024.02.18-22.12.46:282][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Fall_Loop_Auto9
+[2024.02.18-22.12.46:282][328]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMM_Fall_Loop_Auto9FDB29754429E55CD52A37DB8962FCC9D.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Fall_Loop_Auto9.uasset'
+[2024.02.18-22.12.46:282][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Walk_Fwd] ([1] browsable assets)...
+[2024.02.18-22.12.46:282][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Walk_Fwd]
+[2024.02.18-22.12.46:292][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Walk_Fwd_Auto9
+[2024.02.18-22.12.46:292][328]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMF_Walk_Fwd_Auto9F51C1D484F045412301565BDD600E3D3.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Walk_Fwd_Auto9.uasset'
+[2024.02.18-22.12.46:293][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Idle] ([1] browsable assets)...
+[2024.02.18-22.12.46:293][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Idle]
+[2024.02.18-22.12.46:304][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Idle_Auto9
+[2024.02.18-22.12.46:304][328]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMM_Idle_Auto95499D446496E806F232599AC23B3C6E9.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Idle_Auto9.uasset'
+[2024.02.18-22.12.46:304][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequin_UE4/Meshes/New1] ([1] browsable assets)...
+[2024.02.18-22.12.46:404][328]OBJ SavePackage:     Rendered thumbnail for [IKRigDefinition /Game/Characters/Mannequin_UE4/Meshes/New1.New1]
+[2024.02.18-22.12.46:404][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequin_UE4/Meshes/New1]
+[2024.02.18-22.12.46:411][328]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequin_UE4/Meshes/New1_Auto9
+[2024.02.18-22.12.46:411][328]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/New1_Auto98438610849315F60C9C72EA8EBD234B5.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequin_UE4/Meshes/New1_Auto9.uasset'
+[2024.02.18-22.12.46:412][328]LogFileHelpers: Auto-saving content packages took 0.200
+[2024.02.18-22.13.04:844][482]Cmd: TRANSACTION UNDO
+[2024.02.18-22.13.04:844][482]LogEditorTransaction: Undo Manipulate IK Rig Goal
+[2024.02.18-22.13.06:215][482]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.13.06:217][482]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.13.06:243][482]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.13.06:455][482]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.13.06:467][482]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.13.06:468][482]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.13.06:504][482]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.13.06:588][482]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-22.13.07:073][483]LogAutomationController: Ignoring very large delta of 2.23 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.18-22.13.47:011][331]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:027][331]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:034][332]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:041][333]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:049][334]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:058][335]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:066][336]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:075][337]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:083][338]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:091][339]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:108][340]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:116][341]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:125][342]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:141][343]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:159][344]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:166][345]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:175][346]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:183][347]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:191][348]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:199][349]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:208][350]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:216][351]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:225][352]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:233][353]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:242][354]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:250][355]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:258][356]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:266][357]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:275][358]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:283][359]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:291][360]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:300][361]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:308][362]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:316][363]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:325][364]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:333][365]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:342][366]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:350][367]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:358][368]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:366][369]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:375][370]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:383][371]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:391][372]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:400][373]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:408][374]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:417][375]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:425][376]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:433][377]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:442][378]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:450][379]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:458][380]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:467][381]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:475][382]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:483][383]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:491][384]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:500][385]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:508][386]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:516][387]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:525][388]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:533][389]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:542][390]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:550][391]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:559][392]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:567][393]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:575][394]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:584][395]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:592][396]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:600][397]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:608][398]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:615][399]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:625][400]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:632][401]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:641][402]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:650][403]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:658][404]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:666][405]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:675][406]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:683][407]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:692][408]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:703][409]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:732][410]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:743][411]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:798][412]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:802][413]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:811][414]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:819][415]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:828][416]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:836][417]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:844][418]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:853][419]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:861][420]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:869][421]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:878][422]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:889][423]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:922][424]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:931][425]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:938][426]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:944][427]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:953][428]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:961][429]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:969][430]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:978][431]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.47:990][432]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:009][433]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:018][434]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:026][435]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:034][436]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:042][437]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:051][438]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:059][439]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:068][440]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:076][441]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:084][442]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:093][443]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:101][444]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:109][445]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:118][446]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:126][447]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:134][448]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:143][449]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:151][450]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:160][451]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:168][452]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:181][453]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:194][454]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:201][455]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:210][456]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:218][457]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:226][458]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:235][459]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:242][460]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:251][461]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:260][462]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:268][463]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:276][464]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:284][465]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:294][466]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:301][467]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:311][468]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:318][469]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:327][470]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:335][471]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:343][472]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:351][473]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:360][474]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:368][475]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:377][476]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:385][477]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:393][478]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:402][479]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:411][480]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:418][481]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:428][482]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:435][483]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:442][484]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:451][485]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:459][486]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:468][487]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:476][488]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:484][489]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:492][490]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:501][491]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:509][492]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:518][493]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:525][494]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:535][495]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:545][496]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:565][497]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:571][498]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:580][499]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:588][500]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:596][501]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:605][502]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:614][503]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:622][504]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:629][505]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:638][506]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:646][507]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:654][508]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:662][509]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:674][510]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:722][511]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:728][512]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:737][513]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:744][514]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:753][515]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:761][516]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:769][517]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:778][518]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:786][519]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:794][520]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:802][521]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:811][522]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:819][523]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:829][524]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:836][525]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:845][526]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:853][527]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:862][528]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:870][529]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:878][530]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:886][531]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:895][532]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:902][533]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:911][534]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:919][535]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:928][536]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:936][537]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:944][538]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:953][539]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:961][540]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:969][541]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:977][542]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:985][543]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.48:994][544]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.13.49:002][545]LogIKRigEditor: Warning: Solver does not have settings on bone, pelvis.
+[2024.02.18-22.15.32:605][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.15.32:663][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequin_UE4/Meshes/New1" FILE="../../../../a11/al22/cgt555_a11_Shengyang/Content/Characters/Mannequin_UE4/Meshes/New1.uasset" SILENT=true
+[2024.02.18-22.15.32:668][636]LogSavePackage: Moving output files for package: /Game/Characters/Mannequin_UE4/Meshes/New1
+[2024.02.18-22.15.32:668][636]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/New1A7E614B5433F934C59B914B9F13530CD.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Content/Characters/Mannequin_UE4/Meshes/New1.uasset'
+[2024.02.18-22.15.32:678][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 794 ms)
+[2024.02.18-22.15.32:679][636]AssetCheck: New page: Asset Save: New1
+[2024.02.18-22.15.32:679][636]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Characters/Mannequin_UE4/Meshes/New1.New1
