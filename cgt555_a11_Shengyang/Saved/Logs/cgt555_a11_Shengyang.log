@@ -1157,3 +1157,109 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.18-19.41.17:923][983]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_33
 [2024.02.18-19.41.17:923][983]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
 [2024.02.18-19.41.21:182][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.18-20.01.30:229][336]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.02.18-20.35.26:936][769]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.T_UELogo_Mask (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.02.18-20.35.26:936][769]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.02.18-20.35.26:936][769]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.02.18-20.35.27:175][769]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.02.18-20.35.27:176][769]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.02.18-20.35.27:205][769]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 84.770823 MB), EncodeSpeed: Fast
+[2024.02.18-20.35.27:214][769]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2024.02.18-20.35.27:215][769]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.T_UELogo_N_TGA (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.02.18-20.35.27:217][769]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2024.02.18-20.35.27:232][769]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2024.02.18-20.35.27:288][769]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 302.812488 MB), EncodeSpeed: Fast
+[2024.02.18-20.35.27:307][769]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2024.02.18-20.35.27:402][769]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-20.35.27:402][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-20.35.27:541][769]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.35.27:929][769]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-20.35.27:950][769]LogViewport: Scene viewport resized to 926x497, mode Windowed.
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: ================================================
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Total job queries 14, among them cache hits 0 (0.00%)
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: RAM used: 7.04 KiB of 819.20 MiB budget. Usage: 0.00%
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Jobs assigned 5, completed 1 (20.00%)
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Time job spent in pending queue: average 0.51 s, longest 2.48 s
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Job execution time: average 2.47 s, max 2.47 s
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Job life time (pending + execution): average 2.49 s, max 2.49
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Shader code size: average 8.73 KiB, min 8.73 KiB, max 8.73 KiB
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.49 s
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Average processing rate: 0.40 jobs/sec
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Total thread time: 0.215 s
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Total thread preprocess time: 0.054 s
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Percentage time preprocessing: 25.23%
+[2024.02.18-20.35.30:753][911]LogShaderCompilers: Display: Effective parallelization: 0.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.18-20.35.30:754][911]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.02.18-20.35.30:754][911]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.02.18-20.35.30:754][911]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.02.18-20.35.30:754][911]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 100.00% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.02.18-20.35.30:754][911]LogShaderCompilers: Display: ================================================
+[2024.02.18-20.35.33:931][ 77]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-20.35.34:022][ 79]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-20.35.38:061][361]LogViewport: Scene viewport resized to 923x520, mode Windowed.
+[2024.02.18-20.35.38:161][363]LogViewport: Scene viewport resized to 663x334, mode Windowed.
+[2024.02.18-20.35.38:193][364]LogViewport: Scene viewport resized to 587x280, mode Windowed.
+[2024.02.18-20.35.38:320][377]LogViewport: Scene viewport resized to 1430x858, mode Windowed.
+[2024.02.18-20.35.38:616][406]LogSlate: Window 'SK_Mannequin' being destroyed
+[2024.02.18-20.35.39:995][549]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.18-20.35.49:494][543]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2024.02.18-20.35.49:512][543]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2024.02.18-20.35.49:536][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-20.35.49:537][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-20.35.49:544][543]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.35.49:801][543]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.02.18-20.35.49:850][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-20.35.49:863][543]LogViewport: Scene viewport resized to 1430x858, mode Windowed.
+[2024.02.18-20.35.53:328][844]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-20.35.54:070][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2024.02.18-20.35.54:079][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2024.02.18-20.35.54:088][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2024.02.18-20.35.54:185][846]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2024.02.18-20.35.54:286][846]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2024.02.18-20.35.54:355][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/2b35e2cb64a6dd08d03abcbb3968c6aadab948b4
+[2024.02.18-20.35.54:355][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/78d59f76b321cd04f7ee5c0f8bad1d0ddeb943f8
+[2024.02.18-20.35.54:355][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/a5e988c5bb87518026afcb759af4ef25e1732756
+[2024.02.18-20.35.54:356][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2024.02.18-20.35.54:356][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2024.02.18-20.35.54:404][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/7377f7608ecc76bb5c79adabab43d379a2e6f1cf
+[2024.02.18-20.35.54:405][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2024.02.18-20.35.54:406][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/659595a81ebe13fc448f5ee9f5593fdc0e53a749
+[2024.02.18-20.35.54:412][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2024.02.18-20.35.54:416][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/578caae2f8a3debbaede49d32eaf475b270cc1c4
+[2024.02.18-20.35.54:423][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2024.02.18-20.35.54:430][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/b15e2b4b7796776b184bec51aacfa31c4ed9cac3
+[2024.02.18-20.35.54:436][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2024.02.18-20.35.54:442][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/975da6e8e8fa318fac61743dfcb1cf1c0ce04e00
+[2024.02.18-20.35.54:454][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2024.02.18-20.35.54:468][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/95e19179becc18adb362d7da4d42a2a9cd41bb08
+[2024.02.18-20.35.54:476][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2024.02.18-20.35.54:488][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/d0de5e06982b87c8e6ef54851661065dc7f34c39
+[2024.02.18-20.35.54:503][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2024.02.18-20.35.54:518][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/c91c455a39441de3d27b785b1fc78f7b50cbb8db
+[2024.02.18-20.35.54:531][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2024.02.18-20.35.54:548][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/270756baf0b53ee28aa3184391bcb6f200d07cb7
+[2024.02.18-20.35.54:556][846]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2024.02.18-20.35.54:569][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/59fe4ef2a8d385fd7a78b0baea4765cc6c147a8c
+[2024.02.18-20.35.54:596][846]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/e3d3477a0e39ce7a8a0059f07fafe48c185b65bb
+[2024.02.18-20.35.55:284][846]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.02.18-20.35.58:218][846]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.02.18-20.35.58:218][846]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.02.18-20.36.02:343][846]LogSkeletalMesh: Built Skeletal Mesh [8.16s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2024.02.18-20.36.02:347][846]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-20.36.02:697][847]LogAutomationController: Ignoring very large delta of 9.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.18-20.36.02:764][847]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2024.02.18-20.36.02:788][847]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim, at AnimationSequence/2c3f94b710d88144f7b1386b903364f35f07fd41
+[2024.02.18-20.36.03:234][848]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-20.36.27:268][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-20.36.32:937][773]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple.IK_SKM_Manny_Simple
+[2024.02.18-20.36.32:955][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-20.36.32:956][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-20.36.32:979][773]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.36.32:992][773]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.36.33:555][773]LogViewport: Scene viewport resized to 925x631, mode Windowed.
