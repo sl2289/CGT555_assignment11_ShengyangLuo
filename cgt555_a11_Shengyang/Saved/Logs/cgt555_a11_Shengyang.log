@@ -1335,3 +1335,21 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.18-21.00.03:198][190]LogAutomationController: Ignoring very large delta of 23.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2024.02.18-21.01.19:965][414]LogSlate: Window 'Add New Retarget Chain' being destroyed
 [2024.02.18-21.01.20:236][415]LogAutomationController: Ignoring very large delta of 9.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.18-21.03.14:754][715]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-21.03.20:696][715]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-21.03.21:978][715]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-21.03.22:727][715]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-21.03.23:443][715]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-21.03.24:274][715]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-21.03.25:263][715]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-21.03.26:198][715]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-21.03.26:917][715]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-21.03.27:396][716]LogAutomationController: Ignoring very large delta of 28.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.18-21.03.48:183][139]LogIKRigEditor: Warning: Retarget chain not found: LeftArm.
+[2024.02.18-21.04.28:344][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-21.04.28:404][948]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple
+[2024.02.18-21.04.28:404][948]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/IK_SKM_Manny_SimpleE240A74B492D0AAA414D66B1C7EEBCED.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Content/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple.uasset'
+[2024.02.18-21.04.28:416][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 165 ms)
+[2024.02.18-21.04.28:418][948]AssetCheck: New page: Asset Save: IK_SKM_Manny_Simple
+[2024.02.18-21.04.28:418][948]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple.IK_SKM_Manny_Simple
+[2024.02.18-21.04.30:264][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
