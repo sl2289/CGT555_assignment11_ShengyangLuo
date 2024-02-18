@@ -1263,3 +1263,75 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.18-20.36.32:979][773]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
 [2024.02.18-20.36.32:992][773]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
 [2024.02.18-20.36.33:555][773]LogViewport: Scene viewport resized to 925x631, mode Windowed.
+[2024.02.18-20.37.21:890][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.18-20.37.21:899][544]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.016
+[2024.02.18-20.37.21:900][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple] ([1] browsable assets)...
+[2024.02.18-20.37.21:995][544]OBJ SavePackage:     Rendered thumbnail for [IKRigDefinition /Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple.IK_SKM_Manny_Simple]
+[2024.02.18-20.37.21:995][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple]
+[2024.02.18-20.37.22:016][544]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple_Auto1
+[2024.02.18-20.37.22:016][544]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/IK_SKM_Manny_Simple_Auto119F8AE344DE34258C24E798625105164.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple_Auto1.uasset'
+[2024.02.18-20.37.22:016][544]LogFileHelpers: Auto-saving content packages took 0.117
+[2024.02.18-20.39.28:124][923]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.064 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6287 files in 6908 folders with total size 663 MiB.
+[2024.02.18-20.43.02:582][349]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.43.04:492][349]LogSlate: Window 'Add Default Solver' being destroyed
+[2024.02.18-20.43.05:940][349]LogAutomationController: Ignoring very large delta of 6.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.18-20.43.10:481][695]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.43.11:311][696]LogAutomationController: Ignoring very large delta of 2.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.18-20.43.20:613][556]Cmd: TRANSACTION UNDO
+[2024.02.18-20.43.20:613][556]LogEditorTransaction: Undo Remove Retarget Chain
+[2024.02.18-20.43.21:282][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.21:391][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.21:482][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.21:561][556]Cmd: TRANSACTION UNDO
+[2024.02.18-20.43.21:561][556]LogEditorTransaction: Undo Remove Retarget Chain
+[2024.02.18-20.43.22:058][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.22:058][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.22:123][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.22:125][556]Cmd: TRANSACTION UNDO
+[2024.02.18-20.43.22:125][556]LogEditorTransaction: Undo Add Retarget Chain
+[2024.02.18-20.43.22:689][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.22:690][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.22:759][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.23:157][557]LogAutomationController: Ignoring very large delta of 2.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.18-20.43.23:158][557]Cmd: TRANSACTION UNDO
+[2024.02.18-20.43.23:158][557]LogEditorTransaction: Undo Set Retarget Chain Goal
+[2024.02.18-20.43.23:663][557]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.23:664][557]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.23:730][557]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.23:833][558]Cmd: TRANSACTION UNDO
+[2024.02.18-20.43.23:833][558]LogEditorTransaction: Undo Add New Goal
+[2024.02.18-20.43.24:336][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.24:338][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.43.24:348][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.18-20.48.04:869][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.18-20.48.04:871][347]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.008
+[2024.02.18-20.48.04:871][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple] ([1] browsable assets)...
+[2024.02.18-20.48.04:933][347]OBJ SavePackage:     Rendered thumbnail for [IKRigDefinition /Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple.IK_SKM_Manny_Simple]
+[2024.02.18-20.48.04:934][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple]
+[2024.02.18-20.48.04:939][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple_Auto2
+[2024.02.18-20.48.04:939][347]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/IK_SKM_Manny_Simple_Auto2C13D72EA4B07947750DCB9A79425F1FB.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple_Auto2.uasset'
+[2024.02.18-20.48.04:939][347]LogFileHelpers: Auto-saving content packages took 0.068
+[2024.02.18-20.50.41:358][417]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.50.45:916][417]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.50.49:798][417]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.50.53:036][417]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.50.55:292][417]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.50.57:782][417]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.50.59:895][417]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.51.07:226][418]LogAutomationController: Ignoring very large delta of 29.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.18-20.51.51:701][509]LogIKRigEditor: Warning: Retarget chain not found: LeftArm_1.
+[2024.02.18-20.58.05:790][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.02.18-20.58.05:791][275]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.007
+[2024.02.18-20.58.05:791][275]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple] ([1] browsable assets)...
+[2024.02.18-20.58.05:791][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple]
+[2024.02.18-20.58.05:796][275]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple_Auto3
+[2024.02.18-20.58.05:796][275]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/IK_SKM_Manny_Simple_Auto3B0F9C37E4CDAF199D47B9680A94C4A0D.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Meshes/IK_SKM_Manny_Simple_Auto3.uasset'
+[2024.02.18-20.58.05:796][275]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.02.18-20.59.44:328][189]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.59.48:840][189]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.59.52:873][189]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.59.55:086][189]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-20.59.57:186][189]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-21.00.03:198][190]LogAutomationController: Ignoring very large delta of 23.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.18-21.01.19:965][414]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.02.18-21.01.20:236][415]LogAutomationController: Ignoring very large delta of 9.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
