@@ -3363,3 +3363,44 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.18-22.15.32:678][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 794 ms)
 [2024.02.18-22.15.32:679][636]AssetCheck: New page: Asset Save: New1
 [2024.02.18-22.15.32:679][636]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Characters/Mannequin_UE4/Meshes/New1.New1
+[2024.02.18-22.22.46:923][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.02.18-22.22.46:926][978]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2024.02.18-22.22.46:928][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Meshes/RTG_SKM_Manny_Simple_to_M] ([1] browsable assets)...
+[2024.02.18-22.22.46:928][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/RTG_SKM_Manny_Simple_to_M]
+[2024.02.18-22.22.46:929][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/RTG_SKM_Manny_Simple_to_M_Auto0
+[2024.02.18-22.22.46:929][978]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/RTG_SKM_Manny_Simple_to_M_Auto04A26B47E4232BA1A3F64BB810904076B.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Meshes/RTG_SKM_Manny_Simple_to_M_Auto0.uasset'
+[2024.02.18-22.22.46:930][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Run_Fwd] ([1] browsable assets)...
+[2024.02.18-22.22.46:930][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Run_Fwd]
+[2024.02.18-22.22.46:942][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Run_Fwd_Auto0
+[2024.02.18-22.22.46:942][978]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMF_Run_Fwd_Auto00FBB189740776942E0FF27BD9B9F2DCB.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Run_Fwd_Auto0.uasset'
+[2024.02.18-22.22.46:943][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Idle] ([1] browsable assets)...
+[2024.02.18-22.22.46:943][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Idle]
+[2024.02.18-22.22.46:954][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Idle_Auto0
+[2024.02.18-22.22.46:954][978]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMF_Idle_Auto0D6A3B8974B0E3510339F68BD13137A03.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Idle_Auto0.uasset'
+[2024.02.18-22.22.46:954][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Run_Fwd] ([1] browsable assets)...
+[2024.02.18-22.22.46:954][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Run_Fwd]
+[2024.02.18-22.22.46:966][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Run_Fwd_Auto0
+[2024.02.18-22.22.46:966][978]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMM_Run_Fwd_Auto052036C6F4A0553C0985DE9AB1A94B202.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Run_Fwd_Auto0.uasset'
+[2024.02.18-22.22.46:966][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Land] ([1] browsable assets)...
+[2024.02.18-22.22.46:966][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Land]
+[2024.02.18-22.22.46:978][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Land_Auto0
+[2024.02.18-22.22.46:978][978]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMM_Land_Auto08ACC0FF1452580D730E6E7AF75609B31.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Land_Auto0.uasset'
+[2024.02.18-22.22.46:978][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Jump] ([1] browsable assets)...
+[2024.02.18-22.22.46:978][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Jump]
+[2024.02.18-22.22.46:988][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Jump_Auto0
+[2024.02.18-22.22.46:988][978]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMM_Jump_Auto0C0E7EDC0436E38DCEE069BB24FED2B0B.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Jump_Auto0.uasset'
+[2024.02.18-22.22.46:988][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Fall_Loop] ([1] browsable assets)...
+[2024.02.18-22.22.46:988][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Fall_Loop]
+[2024.02.18-22.22.46:999][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Fall_Loop_Auto0
+[2024.02.18-22.22.46:999][978]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMM_Fall_Loop_Auto01211C05E400454B18C17F298A835CB7E.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Fall_Loop_Auto0.uasset'
+[2024.02.18-22.22.47:000][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Walk_Fwd] ([1] browsable assets)...
+[2024.02.18-22.22.47:000][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Walk_Fwd]
+[2024.02.18-22.22.47:012][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Walk_Fwd_Auto0
+[2024.02.18-22.22.47:012][978]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMF_Walk_Fwd_Auto086B081F746EE2D59001AF1A20FA8F44C.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMF_Walk_Fwd_Auto0.uasset'
+[2024.02.18-22.22.47:012][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Idle] ([1] browsable assets)...
+[2024.02.18-22.22.47:012][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Idle]
+[2024.02.18-22.22.47:023][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Idle_Auto0
+[2024.02.18-22.22.47:023][978]LogSavePackage: Moving '../../../../a11/al22/cgt555_a11_Shengyang/Saved/fk_rtgMM_Idle_Auto0A8A87D2A4CAC7D2A7BF29CA415A1C551.tmp' to '../../../../a11/al22/cgt555_a11_Shengyang/Saved/Autosaves/Game/Characters/Mannequins/Animations/retargeting/fk_rtgMM_Idle_Auto0.uasset'
+[2024.02.18-22.22.47:023][978]LogFileHelpers: Auto-saving content packages took 0.096
+[2024.02.18-22.39.28:136][982]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.071 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6306 files in 6945 folders with total size 664 MiB.
+[2024.02.18-23.39.29:074][783]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.008 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6306 files in 6945 folders with total size 664 MiB.
